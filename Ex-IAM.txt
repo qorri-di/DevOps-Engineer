@@ -1,0 +1,180 @@
+Dengan menghubungkan headset wireless dengan smartphone, kita sudah berhasil membuat jaringan sederhana. (Benar/Salah).
+benar
+
+Dari pernyataan berikut, manakah yang benar terkait tipe-tipe jaringan komputer?
+LAN
+
+Berikut adalah beberapa perusahaan dan organisasi yang sekiranya memerlukan jaringan MAN, kecuali
+headset wireles
+
+Apa yang dimaksud dengan jaringan komputer?
+nirkabel dan kabel
+
+Internet menerapkan distributed networking alias jaringan yang terdistribusi. (Benar/Salah).
+benar
+
+Apa yang terjadi pada tahun 1969 dalam sejarah internet?
+arpnet dibangun departemen pertahanan amerika serikat
+
+Perhatikan daftar protokol di bawah ini.
+HTTP
+SMTP
+DNS
+TCP
+ARP
+Mana saja yang merupakan protokol pada application layer?
+123
+
+Manakah fungsi dari presentation layer yang benar?
+mngconversikan data
+
+Ketika kita membuka suatu halaman web, layer pertama yang akan berinteraksi dengan browser adalah
+aplikasi layer
+
+Manakah pernyataan yang benar terkait model OSI dan model TCP/IP?
+model osi bersifat teoritis
+
+Di layer manakah protokol TCP dan UDP berada?
+transportasi layer
+
+... merupakan teknologi yang digunakan untuk mengirimkan data digital melalui saluran telepon
+DSL
+
+Bagaimana jika ternyata sebuah host tidak memperoleh IP address dari DHCP server dan belum diberikan IP address apa pun secara manual?
+host akan terus menunggu x
+
+
+Apa masalah yang tengah dihadapi IPv4?
+kehabisan ip address
+
+Manakah yang BUKAN merupakan ciri-ciri dari IPv4 address?
+satu oktet berisi angka 1-256
+
+Diketahui suatu jaringan memiliki blok IP 10.0.0.0/24. Berapakah subnet mask-nya dalam bilangan desimal?
+255.0
+
+Apa yang dimaksud dengan subnetting?
+proses membagi jaringan besar menjadi beberapa jaringan yang lebih kecil yang disebut segmen jaringan atau subnetwork/subnet.
+
+172.16.0.0
+10101100.00010000 .00000000.00000000
+
+Apa yang dimaksud dengan IP address?
+alamat yang digunakan untuk 
+
+Perhatikan daftar berikut ini.
+Mengurangi jumlah ponsel
+Menggunakan mekanisme CIDR
+Memanfaatkan NAT
+Mengganti sistem IPv4 dengan MAC address saja
+Memperbanyak adopsi IPv6
+Mana sajakah yang merupakan solusi dari masalah habisnya IPv4 address?
+235
+
+Semua perangkat yang terhubung ke internet memiliki alamat yang unik.
+benar
+
+Dari nama domain www.dicoding.com, manakah yang merupakan top-level domain?
+com
+
+Berikut ini beberapa alasan mengapa IP address untuk nama domain bisa berubah sewaktu-waktu, kecuali 
+icann
+
+Menurut aturan, kita hanya boleh memiliki 1 subdomain saja
+benar
+
+Berikut merupakan manfaat dari DNS, kecuali
+nilai bisnis
+
+DNS server mana yang beroperasi di level teratas pada hierarki DNS?
+Recursive DNS Server x
+Root-Level Domains
+
+Tipe DNS record manakah yang mengarahkan suatu domain atau subdomain ke domain lain?
+CNAME 
+
+Apa yang dimaksud dengan Domain Name System?
+domain menjadi ip address
+
+Manakah yang merupakan TLD untuk negara Indonesia?
+id
+
+Huruf "A" pada A record merupakan singkatan dari "Alias".
+salah
+
+Manakah urutan yang benar dari alur proses DNS resolution?
+
+
+Berikut ini merupakan praktik dalam penguatan jaringan, kecuali 
+http
+
+Apa salah satu langkah preventif yang bisa dilakukan dalam menghalau serangan Distributed Denial-of-Service?
+rate limit
+
+HTTPS merupakan gabungan dari dua protokol, yakni HTTP + SSH.
+salah
+
+Selain pengguna internet perlu waspada dan mengamankan data mereka sendiri, kita sebagai administrator jaringan pun perlu ikut andil dengan menerapkan berbagai praktik keamanan jaringan.
+benar
+
+... merupakan praktik untuk menjaga jaringan internal terlindung dari segala bentuk serangan dan pelanggaran data, yang mencakup kontrol akses, pencegahan serangan siber, deteksi perangkat lunak berbahaya, dan langkah-langkah keamanan lainnya
+keamanan jaringan
+
+Tindak kejahatan siber yang beraksi dengan cara memasukkan informasi palsu ke dalam Recursive DNS Server cache disebut ....
+DNS Cache Poisoning 
+
+... merupakan proxy server yang diimplementasikan di sisi client dan berada di depan komputer client, serta meneruskan permintaan ke server tujuan.
+forward proxy server
+
+Perhatikan poin-poin berikut:
+Proxy
+Interupsi
+Pelanggaran Privasi
+Integritas
+Keaslian
+Mana sajakah yang termasuk kategori ancaman yang mampu menyerang sistem keamanan jaringan?
+2345
+
+Apa layanan jaringan virtual di AWS?
+Amazon VPC 
+
+Apa yang dimaksud dengan mekanisme pay-as-you-go pada pengertian cloud computing?
+membayar sesuai dengan apa yang kita pakai
+
+Apa perbedaan antara Network ACL dan Security Group?
+Network ACL bertugas di wilayah EC2 instance, sementara Security Group bertanggung jawab untuk menjaga Subnet. 
+
+Manakah penjelasan yang SALAH terkait enkripsi?
+Untuk melindungi data in transit, kita bisa mengenkripsi data sebelum mengirimkannya dan/atau menggunakan koneksi terenkripsi seperti HTTP.
+
+Manakah pengertian yang benar terkait route table?
+Seperangkat aturan (yang disebut route) yang digunakan untuk menentukan ke mana lalu lintas jaringan diarahkan
+
+Perhatikan poin-poin di bawah ini.
+
+Bandwidth, throughput, dan latency adalah istilah yang sama, tidak ada perbedaannya.
+Bandwidth adalah kapasitas transmisi maksimum dari sebuah perangkat.
+Throughput adalah jumlah aktual data yang berhasil dikirim atau diterima melalui jaringan.
+Latency adalah jumlah waktu yang dibutuhkan data untuk berpindah dari titik asal ke titik tujuan dan kembali lagi ke titik asal.
+Bandwidth biasanya diukur dalam KB, MB, dan GB.
+Pilihlah mana saja pernyataan yang benar terkait bandwidth, throughput, dan latency.
+345
+
+Protokol ICMP bertanggung jawab untuk mendeteksi dan melaporkan kesalahan jaringan sekaligus menyediakan pembaruan status.
+benar
+
+Manakah yang BUKAN merupakan metode pengalokasian DHCP?
+private
+
+
+
+
+
+
+
+
+
+
+
+
+
